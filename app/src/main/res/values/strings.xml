@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pasoapp</string>
+    <string-array name="listaSlow">
+        <item> text test </item>
+        <item> text test2 </item>
+        <item> text test3 </item>
+    </string-array>
+</resources>
